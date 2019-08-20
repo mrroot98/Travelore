@@ -9,25 +9,24 @@
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
-	<!-- Header File -->
 	<nav class="navbar navbar-inverse navbar-fixed-top" style="margin-bottom:0px;">
 		<div class="container">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			  </button>
-			  <a class="navbar-brand" href="#">Travelor</a>
-		       	  <ul class="nav navbar-nav navbar-right">
-			  <li><a href="#">Home</a></li>
-			  <li><a href="#">Category</a></li>
-			  <li><a href="#">Gallery</a></li>
-			  <li><a href="#">Advertisement</a></li>
-			  <li><a href="aboutus.php">About us</a></li>
-			  <li><a href="#">Contact</a></li>
-			</ul>
-		</div>
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Travelor</a>
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="index.php">Home</a></li>
+          			<li><a href="#">Category</a></li>
+					<li><a href="#">Gallery</a></li>
+			        <li><a href="#">Advertisement</a></li>
+			        <li><a href="aboutus.php">About us</a></li>
+			        <li><a href="#">Contact</a></li>
+				</ul>
+			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="signup.html"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
@@ -44,6 +43,12 @@
 			</div>
 		</div>
 	</div>
+	<div class="container">
+		<div>
+			<h1 style="font-family: 'Roboto'; color: #d24105; margin: 40px 0 18px 0;">About Travelore</h1>
+			<h2 style="color: #434343; font-weight: 400; ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</h2>
+		</div>
+	</div>
 	<footer>
 		<div class="container">
 			<center>
@@ -51,5 +56,6 @@
 			</center>
 		</div>
 	</footer>
+	<
 </body>
 </html>

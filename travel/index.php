@@ -19,7 +19,7 @@
 				</button>
 				<a class="navbar-brand" href="#">Travelor</a>
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#">Home</a></li>
+					<li><a href="index.php">Home</a></li>
           <li><a href="#">Category</a></li>
 					<li><a href="#">Gallery</a></li>
           <li><a href="#">Advertisement</a></li>
