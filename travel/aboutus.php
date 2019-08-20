@@ -9,6 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
+	<!-- Header File -->
 	<div>
 		<div>
 			<img src="img/aboutusbanner.jpg" style="height: 700px; width: 100%;">
